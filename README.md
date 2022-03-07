@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SunilDivrala
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning java, html, CSS, js
+- 🌱 I’m currently learning c/c++, html, CSS, js
 - 
 
 <!---
